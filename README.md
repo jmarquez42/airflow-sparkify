@@ -18,7 +18,7 @@ The purpose is to create an ETL that allows monitoring and automating the loadin
 
 ## Project structure
 
-Project files:
+This structure that is described is in the airflow directory:
 
 * ***dags***: Directory containing the dags.
 
